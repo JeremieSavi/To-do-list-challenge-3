@@ -43,6 +43,9 @@ li{
     margin-top:10px;
 
 }
+input{
+    padding: 3px;
+}
 button{
     border: none;
     padding: 6px;
