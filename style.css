@@ -13,6 +13,7 @@ ul{
 
 }
 body{
+    padding: 3px 20px;
     display: flex;
 
     justify-content: center;
@@ -23,7 +24,7 @@ body{
 
 .container{
     margin: 50px;
-    min-width: 500px;
+    min-width: 400px;
     padding:40px;
     background:rgb(247, 243, 243); 
     text-align: center;
